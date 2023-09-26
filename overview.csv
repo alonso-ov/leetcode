@@ -1,0 +1,2 @@
+category, name, notes
+Array/String, Merge Strings Alternately, "Two pointers. Once one reaches end it will stop appending. Only when both reach end does the loop exit"
